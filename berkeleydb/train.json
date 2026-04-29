@@ -1,0 +1,443 @@
+{
+  "001A": {
+    "train_number": "001A",
+    "speed": 120,
+    "year_of_manufacture": 2018,
+    "type": "Passazhirskiy",
+    "number_of_cars": 18,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "002A": {
+    "train_number": "002A",
+    "speed": 140,
+    "year_of_manufacture": 2020,
+    "type": "Passazhirskiy",
+    "number_of_cars": 16,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "003A": {
+    "train_number": "003A",
+    "speed": 160,
+    "year_of_manufacture": 2021,
+    "type": "Skorostnoy",
+    "number_of_cars": 12,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "004A": {
+    "train_number": "004A",
+    "speed": 100,
+    "year_of_manufacture": 2015,
+    "type": "Gruzovoy",
+    "number_of_cars": 25,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "005A": {
+    "train_number": "005A",
+    "speed": 130,
+    "year_of_manufacture": 2019,
+    "type": "Passazhirskiy",
+    "number_of_cars": 14,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "006A": {
+    "train_number": "006A",
+    "speed": 180,
+    "year_of_manufacture": 2022,
+    "type": "Skorostnoy",
+    "number_of_cars": 10,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "007A": {
+    "train_number": "007A",
+    "speed": 90,
+    "year_of_manufacture": 2012,
+    "type": "Gruzovoy",
+    "number_of_cars": 30,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "008A": {
+    "train_number": "008A",
+    "speed": 150,
+    "year_of_manufacture": 2020,
+    "type": "Passazhirskiy",
+    "number_of_cars": 15,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "009A": {
+    "train_number": "009A",
+    "speed": 200,
+    "year_of_manufacture": 2023,
+    "type": "Skorostnoy",
+    "number_of_cars": 8,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "010A": {
+    "train_number": "010A",
+    "speed": 110,
+    "year_of_manufacture": 2017,
+    "type": "Prigorodnyy",
+    "number_of_cars": 6,
+    "created_at": "2026-03-18T21:19:37.080170",
+    "updated_at": "2026-03-18T21:19:37.080170"
+  },
+  "012A": {
+    "train_number": "012A",
+    "speed": 95,
+    "year_of_manufacture": 2014,
+    "type": "Gruzovoy",
+    "number_of_cars": 28,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "013A": {
+    "train_number": "013A",
+    "speed": 170,
+    "year_of_manufacture": 2021,
+    "type": "Skorostnoy",
+    "number_of_cars": 10,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "014A": {
+    "train_number": "014A",
+    "speed": 105,
+    "year_of_manufacture": 2016,
+    "type": "Prigorodnyy",
+    "number_of_cars": 5,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "015A": {
+    "train_number": "015A",
+    "speed": 135,
+    "year_of_manufacture": 2020,
+    "type": "Passazhirskiy",
+    "number_of_cars": 16,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "016A": {
+    "train_number": "016A",
+    "speed": 145,
+    "year_of_manufacture": 2022,
+    "type": "Passazhirskiy",
+    "number_of_cars": 12,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "017A": {
+    "train_number": "017A",
+    "speed": 88,
+    "year_of_manufacture": 2011,
+    "type": "Gruzovoy",
+    "number_of_cars": 32,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "018A": {
+    "train_number": "018A",
+    "speed": 190,
+    "year_of_manufacture": 2023,
+    "type": "Skorostnoy",
+    "number_of_cars": 9,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "019A": {
+    "train_number": "019A",
+    "speed": 115,
+    "year_of_manufacture": 2018,
+    "type": "Prigorodnyy",
+    "number_of_cars": 7,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "020A": {
+    "train_number": "020A",
+    "speed": 155,
+    "year_of_manufacture": 2021,
+    "type": "Passazhirskiy",
+    "number_of_cars": 14,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "021A": {
+    "train_number": "021A",
+    "speed": 92,
+    "year_of_manufacture": 2013,
+    "type": "Gruzovoy",
+    "number_of_cars": 30,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "022A": {
+    "train_number": "022A",
+    "speed": 175,
+    "year_of_manufacture": 2022,
+    "type": "Skorostnoy",
+    "number_of_cars": 11,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "023A": {
+    "train_number": "023A",
+    "speed": 108,
+    "year_of_manufacture": 2017,
+    "type": "Prigorodnyy",
+    "number_of_cars": 6,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "024A": {
+    "train_number": "024A",
+    "speed": 142,
+    "year_of_manufacture": 2020,
+    "type": "Passazhirskiy",
+    "number_of_cars": 15,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "025A": {
+    "train_number": "025A",
+    "speed": 98,
+    "year_of_manufacture": 2015,
+    "type": "Gruzovoy",
+    "number_of_cars": 26,
+    "created_at": "2026-03-18T22:46:46.357305",
+    "updated_at": "2026-03-18T22:46:46.357305"
+  },
+  "001Р‘Р§": {
+    "train_number": "001Р‘Р§",
+    "speed": 120,
+    "year_of_manufacture": 2018,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 18,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "002Р‘Р§": {
+    "train_number": "002Р‘Р§",
+    "speed": 140,
+    "year_of_manufacture": 2020,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 16,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "003Р‘Р§": {
+    "train_number": "003Р‘Р§",
+    "speed": 160,
+    "year_of_manufacture": 2021,
+    "type": "РҐСѓС‚РєС–",
+    "number_of_cars": 12,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "004Р‘Р§": {
+    "train_number": "004Р‘Р§",
+    "speed": 100,
+    "year_of_manufacture": 2015,
+    "type": "Р“СЂСѓР·Р°РІС‹",
+    "number_of_cars": 25,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "005Р‘Р§": {
+    "train_number": "005Р‘Р§",
+    "speed": 130,
+    "year_of_manufacture": 2019,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 14,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "006Р‘Р§": {
+    "train_number": "006Р‘Р§",
+    "speed": 180,
+    "year_of_manufacture": 2022,
+    "type": "РҐСѓС‚РєС–",
+    "number_of_cars": 10,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "007Р‘Р§": {
+    "train_number": "007Р‘Р§",
+    "speed": 90,
+    "year_of_manufacture": 2012,
+    "type": "Р“СЂСѓР·Р°РІС‹",
+    "number_of_cars": 30,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "008Р‘Р§": {
+    "train_number": "008Р‘Р§",
+    "speed": 150,
+    "year_of_manufacture": 2020,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 15,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "009Р‘Р§": {
+    "train_number": "009Р‘Р§",
+    "speed": 200,
+    "year_of_manufacture": 2023,
+    "type": "РҐСѓС‚РєС–",
+    "number_of_cars": 8,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "010Р‘Р§": {
+    "train_number": "010Р‘Р§",
+    "speed": 110,
+    "year_of_manufacture": 2017,
+    "type": "РџСЂС‹РіР°СЂР°РґРЅС‹",
+    "number_of_cars": 6,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "011Р‘Р§": {
+    "train_number": "011Р‘Р§",
+    "speed": 125,
+    "year_of_manufacture": 2019,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 14,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "012Р‘Р§": {
+    "train_number": "012Р‘Р§",
+    "speed": 95,
+    "year_of_manufacture": 2014,
+    "type": "Р“СЂСѓР·Р°РІС‹",
+    "number_of_cars": 28,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "013Р‘Р§": {
+    "train_number": "013Р‘Р§",
+    "speed": 170,
+    "year_of_manufacture": 2021,
+    "type": "РҐСѓС‚РєС–",
+    "number_of_cars": 10,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "014Р‘Р§": {
+    "train_number": "014Р‘Р§",
+    "speed": 105,
+    "year_of_manufacture": 2016,
+    "type": "РџСЂС‹РіР°СЂР°РґРЅС‹",
+    "number_of_cars": 5,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "015Р‘Р§": {
+    "train_number": "015Р‘Р§",
+    "speed": 135,
+    "year_of_manufacture": 2020,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 16,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "016Р‘Р§": {
+    "train_number": "016Р‘Р§",
+    "speed": 145,
+    "year_of_manufacture": 2022,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 12,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "017Р‘Р§": {
+    "train_number": "017Р‘Р§",
+    "speed": 88,
+    "year_of_manufacture": 2011,
+    "type": "Р“СЂСѓР·Р°РІС‹",
+    "number_of_cars": 32,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "018Р‘Р§": {
+    "train_number": "018Р‘Р§",
+    "speed": 190,
+    "year_of_manufacture": 2023,
+    "type": "РҐСѓС‚РєС–",
+    "number_of_cars": 9,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "019Р‘Р§": {
+    "train_number": "019Р‘Р§",
+    "speed": 115,
+    "year_of_manufacture": 2018,
+    "type": "РџСЂС‹РіР°СЂР°РґРЅС‹",
+    "number_of_cars": 7,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "020Р‘Р§": {
+    "train_number": "020Р‘Р§",
+    "speed": 155,
+    "year_of_manufacture": 2021,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 14,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "021Р‘Р§": {
+    "train_number": "021Р‘Р§",
+    "speed": 92,
+    "year_of_manufacture": 2013,
+    "type": "Р“СЂСѓР·Р°РІС‹",
+    "number_of_cars": 30,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "022Р‘Р§": {
+    "train_number": "022Р‘Р§",
+    "speed": 175,
+    "year_of_manufacture": 2022,
+    "type": "РҐСѓС‚РєС–",
+    "number_of_cars": 11,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "023Р‘Р§": {
+    "train_number": "023Р‘Р§",
+    "speed": 108,
+    "year_of_manufacture": 2017,
+    "type": "РџСЂС‹РіР°СЂР°РґРЅС‹",
+    "number_of_cars": 6,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "024Р‘Р§": {
+    "train_number": "024Р‘Р§",
+    "speed": 142,
+    "year_of_manufacture": 2020,
+    "type": "РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_cars": 15,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  },
+  "025Р‘Р§": {
+    "train_number": "025Р‘Р§",
+    "speed": 98,
+    "year_of_manufacture": 2015,
+    "type": "Р“СЂСѓР·Р°РІС‹",
+    "number_of_cars": 26,
+    "created_at": "2026-03-20T16:09:09.338621",
+    "updated_at": "2026-03-20T16:09:09.338621"
+  }
+}

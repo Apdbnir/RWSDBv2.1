@@ -1,0 +1,28 @@
+{
+  "name": "rwsdbv2.3",
+  "private": true,
+  "version": "2.3.0",
+  "type": "module",
+  "description": "Railway Station Database System v2.3 - Belarusian Edition",
+  "scripts": {
+    "dev": "cd web && npm run dev",
+    "build": "cd web && npm run build",
+    "build:web": "cd web && npm run build",
+    "server": "cd backend && python server.py",
+    "start": "concurrently \"npm run server\" \"npm run dev\"",
+    "lint": "cd web && npm run lint",
+    "preview": "cd web && npm run preview"
+  },
+  "keywords": [
+    "railway",
+    "database",
+    "belarus",
+    "react",
+    "python"
+  ],
+  "author": "RWSDB Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

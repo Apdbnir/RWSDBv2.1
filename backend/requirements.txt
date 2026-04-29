@@ -1,0 +1,12 @@
+# RWSDBv2.1 Backend Dependencies
+# Railway Station Database System v2.1
+
+# Core dependencies
+openpyxl>=3.0.0         # Excel export support
+
+# BerkeleyDB support (for WSL/Linux)
+bsddb3>=6.2.0           # Python bindings for BerkeleyDB
+
+# Optional (for legacy PyQt6 UI support)
+# PyQt6>=6.4.0
+# reportlab>=3.6.0

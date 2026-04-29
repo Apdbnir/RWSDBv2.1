@@ -1,0 +1,282 @@
+{
+  "001A_EMP006": {
+    "work_id": 1,
+    "train_number": "001A",
+    "employee_number": "EMP006",
+    "work_date": "2025-01-15",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "001A_EMP007": {
+    "work_id": 2,
+    "train_number": "001A",
+    "employee_number": "EMP007",
+    "work_date": "2025-01-15",
+    "role": "Pomoshchnik mashinista",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "001A_EMP018": {
+    "work_id": 3,
+    "train_number": "001A",
+    "employee_number": "EMP018",
+    "work_date": "2025-01-15",
+    "role": "Nachalnik poyezda",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "002A_EMP006": {
+    "work_id": 4,
+    "train_number": "002A",
+    "employee_number": "EMP006",
+    "work_date": "2025-01-16",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "002A_EMP019": {
+    "work_id": 5,
+    "train_number": "002A",
+    "employee_number": "EMP019",
+    "work_date": "2025-01-16",
+    "role": "Provodnik",
+    "status": "completed",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "003A_EMP007": {
+    "work_id": 6,
+    "train_number": "003A",
+    "employee_number": "EMP007",
+    "work_date": "2025-01-15",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "003A_EMP018": {
+    "work_id": 7,
+    "train_number": "003A",
+    "employee_number": "EMP018",
+    "work_date": "2025-01-15",
+    "role": "Nachalnik poyezda",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "004A_EMP008": {
+    "work_id": 8,
+    "train_number": "004A",
+    "employee_number": "EMP008",
+    "work_date": "2025-01-15",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "004A_EMP020": {
+    "work_id": 9,
+    "train_number": "004A",
+    "employee_number": "EMP020",
+    "work_date": "2025-01-15",
+    "role": "Kontroler",
+    "status": "cancelled",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "005A_EMP009": {
+    "work_id": 10,
+    "train_number": "005A",
+    "employee_number": "EMP009",
+    "work_date": "2025-01-15",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "005A_EMP019": {
+    "work_id": 11,
+    "train_number": "005A",
+    "employee_number": "EMP019",
+    "work_date": "2025-01-15",
+    "role": "Provodnik",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "006A_EMP010": {
+    "work_id": 12,
+    "train_number": "006A",
+    "employee_number": "EMP010",
+    "work_date": "2025-01-15",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "006A_EMP018": {
+    "work_id": 13,
+    "train_number": "006A",
+    "employee_number": "EMP018",
+    "work_date": "2025-01-15",
+    "role": "Nachalnik poyezda",
+    "status": "completed",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "007A_EMP011": {
+    "work_id": 14,
+    "train_number": "007A",
+    "employee_number": "EMP011",
+    "work_date": "2025-01-15",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "007A_EMP020": {
+    "work_id": 15,
+    "train_number": "007A",
+    "employee_number": "EMP020",
+    "work_date": "2025-01-15",
+    "role": "Kontroler",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "008A_EMP012": {
+    "work_id": 16,
+    "train_number": "008A",
+    "employee_number": "EMP012",
+    "work_date": "2025-01-16",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "008A_EMP019": {
+    "work_id": 17,
+    "train_number": "008A",
+    "employee_number": "EMP019",
+    "work_date": "2025-01-16",
+    "role": "Provodnik",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "009A_EMP013": {
+    "work_id": 18,
+    "train_number": "009A",
+    "employee_number": "EMP013",
+    "work_date": "2025-01-16",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "009A_EMP018": {
+    "work_id": 19,
+    "train_number": "009A",
+    "employee_number": "EMP018",
+    "work_date": "2025-01-16",
+    "role": "Nachalnik poyezda",
+    "status": "cancelled",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "010A_EMP014": {
+    "work_id": 20,
+    "train_number": "010A",
+    "employee_number": "EMP014",
+    "work_date": "2025-01-16",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "010A_EMP020": {
+    "work_id": 21,
+    "train_number": "010A",
+    "employee_number": "EMP020",
+    "work_date": "2025-01-16",
+    "role": "Kontroler",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "012A_EMP006": {
+    "work_id": 24,
+    "train_number": "012A",
+    "employee_number": "EMP006",
+    "work_date": "2025-01-17",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "012A_EMP021": {
+    "work_id": 25,
+    "train_number": "012A",
+    "employee_number": "EMP021",
+    "work_date": "2025-01-17",
+    "role": "Slesar",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "013A_EMP007": {
+    "work_id": 26,
+    "train_number": "013A",
+    "employee_number": "EMP007",
+    "work_date": "2025-01-17",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "013A_EMP018": {
+    "work_id": 27,
+    "train_number": "013A",
+    "employee_number": "EMP018",
+    "work_date": "2025-01-17",
+    "role": "Nachalnik poyezda",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "014A_EMP008": {
+    "work_id": 28,
+    "train_number": "014A",
+    "employee_number": "EMP008",
+    "work_date": "2025-01-17",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "015A_EMP009": {
+    "work_id": 29,
+    "train_number": "015A",
+    "employee_number": "EMP009",
+    "work_date": "2025-01-17",
+    "role": "Mashinist",
+    "status": "active",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  },
+  "015A_EMP019": {
+    "work_id": 30,
+    "train_number": "015A",
+    "employee_number": "EMP019",
+    "work_date": "2025-01-17",
+    "role": "Provodnik",
+    "status": "cancelled",
+    "created_at": "2026-03-18T22:46:46.418140",
+    "updated_at": "2026-03-18T22:46:46.418140"
+  }
+}

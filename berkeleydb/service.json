@@ -1,0 +1,227 @@
+{
+  "SRV001": {
+    "service_number": "SRV001",
+    "service_name": "Kamera khraneniya bagazha",
+    "price": 150.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T21:19:37.085825",
+    "updated_at": "2026-03-18T21:19:37.085825"
+  },
+  "SRV002": {
+    "service_number": "SRV002",
+    "service_name": "Komnata otdykha",
+    "price": 500.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T21:19:37.085825",
+    "updated_at": "2026-03-18T21:19:37.085825"
+  },
+  "SRV003": {
+    "service_number": "SRV003",
+    "service_name": "Wi-Fi dostup",
+    "price": 100.0,
+    "type": "Svyaz",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T21:19:37.085825",
+    "updated_at": "2026-03-18T21:19:37.085825"
+  },
+  "SRV004": {
+    "service_number": "SRV004",
+    "service_name": "Taksi zakaz",
+    "price": 200.0,
+    "type": "Transport",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T21:19:37.085825",
+    "updated_at": "2026-03-18T21:19:37.085825"
+  },
+  "SRV005": {
+    "service_number": "SRV005",
+    "service_name": "Gruzchik",
+    "price": 300.0,
+    "type": "Pomoshch",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T21:19:37.085825",
+    "updated_at": "2026-03-18T21:19:37.085825"
+  },
+  "SRV006": {
+    "service_number": "SRV006",
+    "service_name": "Provodnik dlya invalidov",
+    "price": 0.0,
+    "type": "Pomoshch",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV007": {
+    "service_number": "SRV007",
+    "service_name": "Detskaya komnata",
+    "price": 250.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV008": {
+    "service_number": "SRV008",
+    "service_name": "Biznes-zal",
+    "price": 1000.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV009": {
+    "service_number": "SRV009",
+    "service_name": "Dush",
+    "price": 350.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV010": {
+    "service_number": "SRV010",
+    "service_name": "Zaryadka ustroystv",
+    "price": 50.0,
+    "type": "Svyaz",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV011": {
+    "service_number": "SRV011",
+    "service_name": "Aptechka",
+    "price": 0.0,
+    "type": "Meditsina",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV012": {
+    "service_number": "SRV012",
+    "service_name": "Informatsionnaya spravka",
+    "price": 0.0,
+    "type": "Info",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV013": {
+    "service_number": "SRV013",
+    "service_name": "Pechat biletov",
+    "price": 100.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV014": {
+    "service_number": "SRV014",
+    "service_name": "Upakovka bagazha",
+    "price": 200.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV015": {
+    "service_number": "SRV015",
+    "service_name": "Parkovka",
+    "price": 500.0,
+    "type": "Transport",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV016": {
+    "service_number": "SRV016",
+    "service_name": "Kafe-stolovaya",
+    "price": 300.0,
+    "type": "Pitaniye",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV017": {
+    "service_number": "SRV017",
+    "service_name": "Avtomaty s napitkami",
+    "price": 100.0,
+    "type": "Pitaniye",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV018": {
+    "service_number": "SRV018",
+    "service_name": "Komnata materi i rebenka",
+    "price": 0.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV019": {
+    "service_number": "SRV019",
+    "service_name": "UsЕ‚ugi perevoda",
+    "price": 500.0,
+    "type": "Info",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV020": {
+    "service_number": "SRV020",
+    "service_name": "Arenda avtomobilya",
+    "price": 2000.0,
+    "type": "Transport",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV021": {
+    "service_number": "SRV021",
+    "service_name": "Bronirovaniye otelya",
+    "price": 150.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV022": {
+    "service_number": "SRV022",
+    "service_name": "Ekskursii po gorodu",
+    "price": 800.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV023": {
+    "service_number": "SRV023",
+    "service_name": "Dostava k poyezdu",
+    "price": 400.0,
+    "type": "Transport",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV024": {
+    "service_number": "SRV024",
+    "service_name": "Kamera khraneniya velosipedov",
+    "price": 100.0,
+    "type": "Servis",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  },
+  "SRV025": {
+    "service_number": "SRV025",
+    "service_name": "UsЕ‚ugi faksimilnoy svyazi",
+    "price": 50.0,
+    "type": "Svyaz",
+    "date": "2026-03-18",
+    "created_at": "2026-03-18T22:46:46.394997",
+    "updated_at": "2026-03-18T22:46:46.394997"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "1A": {
+    "platform_number": "1A",
+    "capacity": 500,
+    "location": "Glavnyy vokzal, sektor A",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "2A": {
+    "platform_number": "2A",
+    "capacity": 500,
+    "location": "Glavnyy vokzal, sektor A",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "3A": {
+    "platform_number": "3A",
+    "capacity": 400,
+    "location": "Glavnyy vokzal, sektor B",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "4A": {
+    "platform_number": "4A",
+    "capacity": 400,
+    "location": "Glavnyy vokzal, sektor B",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "5A": {
+    "platform_number": "5A",
+    "capacity": 350,
+    "location": "Glavnyy vokzal, sektor C",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "6A": {
+    "platform_number": "6A",
+    "capacity": 250,
+    "location": "Prigorodnyy terminal",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "7A": {
+    "platform_number": "7A",
+    "capacity": 250,
+    "location": "Prigorodnyy terminal",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "8A": {
+    "platform_number": "8A",
+    "capacity": 600,
+    "location": "Gruzovoy terminal",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "9A": {
+    "platform_number": "9A",
+    "capacity": 600,
+    "location": "Gruzovoy terminal",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "10A": {
+    "platform_number": "10A",
+    "capacity": 300,
+    "location": "Skorostnyye poyezda",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T21:19:37.083481",
+    "updated_at": "2026-03-18T21:19:37.083481"
+  },
+  "11A": {
+    "platform_number": "11A",
+    "capacity": 280,
+    "location": "Severnyy terminal",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "12A": {
+    "platform_number": "12A",
+    "capacity": 320,
+    "location": "Severnyy terminal",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "13A": {
+    "platform_number": "13A",
+    "capacity": 450,
+    "location": "Yuzhnyy vokzal",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "14A": {
+    "platform_number": "14A",
+    "capacity": 450,
+    "location": "Yuzhnyy vokzal",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "15A": {
+    "platform_number": "15A",
+    "capacity": 380,
+    "location": "Zapadnyy terminal",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "16A": {
+    "platform_number": "16A",
+    "capacity": 380,
+    "location": "Zapadnyy terminal",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "17A": {
+    "platform_number": "17A",
+    "capacity": 550,
+    "location": "Vostochnyy vokzal",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "18A": {
+    "platform_number": "18A",
+    "capacity": 550,
+    "location": "Vostochnyy vokzal",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "19A": {
+    "platform_number": "19A",
+    "capacity": 200,
+    "location": "Rezervnaya zona",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "20A": {
+    "platform_number": "20A",
+    "capacity": 200,
+    "location": "Rezervnaya zona",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "21A": {
+    "platform_number": "21A",
+    "capacity": 420,
+    "location": "Tsentralnaya ploshchadka",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "22A": {
+    "platform_number": "22A",
+    "capacity": 420,
+    "location": "Tsentralnaya ploshchadka",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "23A": {
+    "platform_number": "23A",
+    "capacity": 350,
+    "location": "Prigorodnaya zona",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "24A": {
+    "platform_number": "24A",
+    "capacity": 350,
+    "location": "Prigorodnaya zona",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "25A": {
+    "platform_number": "25A",
+    "capacity": 500,
+    "location": "Magistralnaya liniya",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-18T22:46:46.393004",
+    "updated_at": "2026-03-18T22:46:46.393004"
+  },
+  "1Рђ": {
+    "platform_number": "1Рђ",
+    "capacity": 500,
+    "location": "РњС–РЅСЃРє-РџР°СЃР°Р¶С‹СЂСЃРєС–, СЃРµРєС‚Р°СЂ A",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "2Рђ": {
+    "platform_number": "2Рђ",
+    "capacity": 500,
+    "location": "РњС–РЅСЃРє-РџР°СЃР°Р¶С‹СЂСЃРєС–, СЃРµРєС‚Р°СЂ A",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "3Рђ": {
+    "platform_number": "3Рђ",
+    "capacity": 400,
+    "location": "РњС–РЅСЃРє-РџР°СЃР°Р¶С‹СЂСЃРєС–, СЃРµРєС‚Р°СЂ B",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "4Рђ": {
+    "platform_number": "4Рђ",
+    "capacity": 400,
+    "location": "РњС–РЅСЃРє-РџР°СЃР°Р¶С‹СЂСЃРєС–, СЃРµРєС‚Р°СЂ B",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "5Рђ": {
+    "platform_number": "5Рђ",
+    "capacity": 350,
+    "location": "РњС–РЅСЃРє-РџР°СЃР°Р¶С‹СЂСЃРєС–, СЃРµРєС‚Р°СЂ C",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "6Рђ": {
+    "platform_number": "6Рђ",
+    "capacity": 250,
+    "location": "РџСЂС‹РіР°СЂР°РґРЅС‹ С‚СЌСЂРјС–РЅР°Р»",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "7Рђ": {
+    "platform_number": "7Рђ",
+    "capacity": 250,
+    "location": "РџСЂС‹РіР°СЂР°РґРЅС‹ С‚СЌСЂРјС–РЅР°Р»",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "8Рђ": {
+    "platform_number": "8Рђ",
+    "capacity": 600,
+    "location": "Р“СЂСѓР·Р°РІС‹ С‚СЌСЂРјС–РЅР°Р»",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "9Рђ": {
+    "platform_number": "9Рђ",
+    "capacity": 600,
+    "location": "Р“СЂСѓР·Р°РІС‹ С‚СЌСЂРјС–РЅР°Р»",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "10Рђ": {
+    "platform_number": "10Рђ",
+    "capacity": 300,
+    "location": "РҐСѓС‚РєС–СЏ С†СЏРіРЅС–РєС–",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "11Рђ": {
+    "platform_number": "11Рђ",
+    "capacity": 280,
+    "location": "Р‘СЂСЌСЃС‚-Р¦СЌРЅС‚СЂР°Р»СЊРЅС‹",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "12Рђ": {
+    "platform_number": "12Рђ",
+    "capacity": 320,
+    "location": "Р“РѕРјРµР»СЊ-РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "13Рђ": {
+    "platform_number": "13Рђ",
+    "capacity": 450,
+    "location": "Р’С–С†РµР±СЃРє-РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "14Рђ": {
+    "platform_number": "14Рђ",
+    "capacity": 450,
+    "location": "РњР°РіС–Р»С‘Сћ-РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "15Рђ": {
+    "platform_number": "15Рђ",
+    "capacity": 380,
+    "location": "Р“СЂРѕРґРЅР°-РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "16Рђ": {
+    "platform_number": "16Рђ",
+    "capacity": 380,
+    "location": "Р‘Р°СЂР°РЅР°РІС–С‡С‹-РџР°СЃР°Р¶С‹СЂСЃРєС–СЏ",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "17Рђ": {
+    "platform_number": "17Рђ",
+    "capacity": 550,
+    "location": "РћСЂС€Р°-Р¦СЌРЅС‚СЂР°Р»СЊРЅР°СЏ",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "18Рђ": {
+    "platform_number": "18Рђ",
+    "capacity": 550,
+    "location": "Р–Р»РѕР±С–РЅ-РџР°СЃР°Р¶С‹СЂСЃРєС–",
+    "number_of_tracks": 3,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "19Рђ": {
+    "platform_number": "19Рђ",
+    "capacity": 200,
+    "location": "Р СЌР·РµСЂРІРѕРІР°СЏ Р·РѕРЅР°",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "20Рђ": {
+    "platform_number": "20Рђ",
+    "capacity": 200,
+    "location": "Р СЌР·РµСЂРІРѕРІР°СЏ Р·РѕРЅР°",
+    "number_of_tracks": 1,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "21Рђ": {
+    "platform_number": "21Рђ",
+    "capacity": 420,
+    "location": "Р¦СЌРЅС‚СЂР°Р»СЊРЅР°СЏ РїР»СЏС‚С„РѕСЂРјР°",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "22Рђ": {
+    "platform_number": "22Рђ",
+    "capacity": 420,
+    "location": "Р¦СЌРЅС‚СЂР°Р»СЊРЅР°СЏ РїР»СЏС‚С„РѕСЂРјР°",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "23Рђ": {
+    "platform_number": "23Рђ",
+    "capacity": 350,
+    "location": "РџСЂС‹РіР°СЂР°РґРЅР°СЏ Р·РѕРЅР°",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "24Рђ": {
+    "platform_number": "24Рђ",
+    "capacity": 350,
+    "location": "РџСЂС‹РіР°СЂР°РґРЅР°СЏ Р·РѕРЅР°",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  },
+  "25Рђ": {
+    "platform_number": "25Рђ",
+    "capacity": 500,
+    "location": "РњР°РіС–СЃС‚СЂР°Р»СЊРЅР°СЏ Р»С–РЅС–СЏ",
+    "number_of_tracks": 2,
+    "created_at": "2026-03-20T16:09:09.342047",
+    "updated_at": "2026-03-20T16:09:09.342047"
+  }
+}

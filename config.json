@@ -1,8 +1,0 @@
-{
-  "admin_password": "4444",
-  "pg_host": "localhost",
-  "pg_database": "Railway sstation",
-  "pg_user": "postgres",
-  "pg_password": "postgres",
-  "pg_port": 5432
-}

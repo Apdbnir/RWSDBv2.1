@@ -1,0 +1,227 @@
+{
+  "EMP001": {
+    "employee_number": "EMP001",
+    "full_name": "Ivanov Ivan Ivanovich",
+    "position": "Nachalnik vokzala",
+    "work_experience": 15,
+    "passport_information": "4500 123456",
+    "created_at": "2026-03-18T21:19:37.087581",
+    "updated_at": "2026-03-18T21:19:37.087581"
+  },
+  "EMP002": {
+    "employee_number": "EMP002",
+    "full_name": "Petrov Petr Petrovich",
+    "position": "Zamestitel nachalnika",
+    "work_experience": 12,
+    "passport_information": "4500 234567",
+    "created_at": "2026-03-18T21:19:37.087581",
+    "updated_at": "2026-03-18T21:19:37.087581"
+  },
+  "EMP003": {
+    "employee_number": "EMP003",
+    "full_name": "Sidorov Sidor Sidorovich",
+    "position": "Dispatcher",
+    "work_experience": 8,
+    "passport_information": "4500 345678",
+    "created_at": "2026-03-18T21:19:37.087581",
+    "updated_at": "2026-03-18T21:19:37.087581"
+  },
+  "EMP004": {
+    "employee_number": "EMP004",
+    "full_name": "Kuznetsov Kuzma Kuzmich",
+    "position": "Kassir",
+    "work_experience": 5,
+    "passport_information": "4500 456789",
+    "created_at": "2026-03-18T21:19:37.087581",
+    "updated_at": "2026-03-18T21:19:37.087581"
+  },
+  "EMP005": {
+    "employee_number": "EMP005",
+    "full_name": "Popov Pop Popovich",
+    "position": "Provodnik",
+    "work_experience": 3,
+    "passport_information": "4500 567890",
+    "created_at": "2026-03-18T21:19:37.087581",
+    "updated_at": "2026-03-18T21:19:37.087581"
+  },
+  "EMP006": {
+    "employee_number": "EMP006",
+    "full_name": "Smirnov Smirn Smirnovich",
+    "position": "Mashinist",
+    "work_experience": 10,
+    "passport_information": "4500 678901",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP007": {
+    "employee_number": "EMP007",
+    "full_name": "Vasilyev Vasil Vasilyevich",
+    "position": "Pomoshchnik mashinista",
+    "work_experience": 4,
+    "passport_information": "4500 789012",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP008": {
+    "employee_number": "EMP008",
+    "full_name": "Mikhaylov Mikhail Mikhaylovich",
+    "position": "Dezhurnyy po stantsii",
+    "work_experience": 7,
+    "passport_information": "4500 890123",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP009": {
+    "employee_number": "EMP009",
+    "full_name": "Fedorov Fedor Fedorovich",
+    "position": "Uborshchik",
+    "work_experience": 2,
+    "passport_information": "4500 901234",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP010": {
+    "employee_number": "EMP010",
+    "full_name": "Alekseyev Aleksey Alekseyevich",
+    "position": "Okhrannik",
+    "work_experience": 6,
+    "passport_information": "4500 012345",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP011": {
+    "employee_number": "EMP011",
+    "full_name": "Grigoryev Grigoriy Grigoryevich",
+    "position": "Gruzchik",
+    "work_experience": 1,
+    "passport_information": "4500 112233",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP012": {
+    "employee_number": "EMP012",
+    "full_name": "Nikolayev Nikolay Nikolayevich",
+    "position": "Informator",
+    "work_experience": 4,
+    "passport_information": "4500 223344",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP013": {
+    "employee_number": "EMP013",
+    "full_name": "Semenov Semyon Semyonovich",
+    "position": "Tekhnik",
+    "work_experience": 9,
+    "passport_information": "4500 334455",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP014": {
+    "employee_number": "EMP014",
+    "full_name": "Egorov Egor Egorovich",
+    "position": "Elektrik",
+    "work_experience": 11,
+    "passport_information": "4500 445566",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP015": {
+    "employee_number": "EMP015",
+    "full_name": "Pavlov Pavel Pavlovich",
+    "position": "Mekhanik",
+    "work_experience": 13,
+    "passport_information": "4500 556677",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP016": {
+    "employee_number": "EMP016",
+    "full_name": "Yakovlev Yakov Yakovlevich",
+    "position": "Revisor",
+    "work_experience": 8,
+    "passport_information": "4500 667788",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP017": {
+    "employee_number": "EMP017",
+    "full_name": "Romanov Roman Romanovich",
+    "position": "Dispetcher",
+    "work_experience": 5,
+    "passport_information": "4500 778899",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP018": {
+    "employee_number": "EMP018",
+    "full_name": "Sergeyev Sergey Sergeyevich",
+    "position": "Nachalnik poyezda",
+    "work_experience": 12,
+    "passport_information": "4500 889900",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP019": {
+    "employee_number": "EMP019",
+    "full_name": "Dmitriyev Dmitriy Dmitriyevich",
+    "position": "Provodnik",
+    "work_experience": 3,
+    "passport_information": "4500 990011",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP020": {
+    "employee_number": "EMP020",
+    "full_name": "Zakharov Zakhar Zakharovich",
+    "position": "Kontroler",
+    "work_experience": 6,
+    "passport_information": "4500 001122",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP021": {
+    "employee_number": "EMP021",
+    "full_name": "Kuzmin Kuzma Kuzmich",
+    "position": "Slesar",
+    "work_experience": 7,
+    "passport_information": "4500 112200",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP022": {
+    "employee_number": "EMP022",
+    "full_name": "Popov Pop Popovich",
+    "position": "Operator",
+    "work_experience": 4,
+    "passport_information": "4500 223311",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP023": {
+    "employee_number": "EMP023",
+    "full_name": "Morozov Moroz Morozovich",
+    "position": "Signalist",
+    "work_experience": 9,
+    "passport_information": "4500 334422",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP024": {
+    "employee_number": "EMP024",
+    "full_name": "Volkov Volk Volkovich",
+    "position": "Puteyets",
+    "work_experience": 15,
+    "passport_information": "4500 445533",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  },
+  "EMP025": {
+    "employee_number": "EMP025",
+    "full_name": "Lebedev Lebed Lebedovich",
+    "position": "Master uchastka",
+    "work_experience": 18,
+    "passport_information": "4500 556644",
+    "created_at": "2026-03-18T22:46:46.396956",
+    "updated_at": "2026-03-18T22:46:46.396956"
+  }
+}

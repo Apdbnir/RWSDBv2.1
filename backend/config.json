@@ -1,0 +1,11 @@
+{
+  "admin_password": "4444",
+  "database_type": "postgresql",
+  "bdb_path": "../berkeleydb",
+  "pg_host": "172.25.208.1",
+  "pg_database": "railway_station",
+  "pg_user": "postgres",
+  "pg_password": "postgres",
+  "pg_port": 5432,
+  "port": 6767
+}

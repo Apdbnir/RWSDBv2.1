@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/venv_wsl/
+web/venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+server.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup folders (legacy UI)
+ui_old/
+utils_old/
+app_old/
+
+# Data backups (optional - uncomment to ignore)
+# data/backups/
